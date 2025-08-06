@@ -65,7 +65,7 @@ Direct developer email support can be purchased through a [Support Plan][4] or b
 © LightningChart Ltd 2009-2022. All rights reserved.
 
 
-[Spider chart]: https://lightningchart.com/js-charts/api-documentation/v7.1.0/classes/SpiderChart.html
-[Spider web mode]: https://lightningchart.com/js-charts/api-documentation/v7.1.0/enums/SpiderWebMode.html
-[Spider series]: https://lightningchart.com/js-charts/api-documentation/v7.1.0/classes/SpiderSeries.html
+[Spider chart]: https://lightningchart.com/js-charts/api-documentation/v8.0.0/classes/SpiderChart.html
+[Spider web mode]: https://lightningchart.com/js-charts/api-documentation/v8.0.0/enums/SpiderWebMode.html
+[Spider series]: https://lightningchart.com/js-charts/api-documentation/v8.0.0/classes/SpiderSeries.html
 

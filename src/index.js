@@ -16,6 +16,7 @@ const chart = lightningChart({
         theme: Themes[new URLSearchParams(window.location.search).get('theme') || 'darkGold'] || undefined,
     })
     .setTitle('Animated Radar Chart')
+    .setTitleMargin({ top: 20, bottom: 40 })
     .setAxisInterval(100)
     // Configure spider to be circular (like a traditional Radar Chart).
     .setWebMode(SpiderWebMode.Circle)
